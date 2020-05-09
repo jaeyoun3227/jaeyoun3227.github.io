@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Jaeyoun3227's page 
+Hi, I am Jaeyoun Yoo in Handong Global University. My major is biology and computer science. I am senior student and I am ready for graduation. Nice to meet you everybody. 
 
-You can use the [editor on GitHub](https://github.com/jaeyoun3227/jaeyoun3227.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Computer science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am very interested in coding. I learned computer languages such as C, C++, Python, Java. I took subjects like Logic design, Operating systems, Data structures, Open souce sytem lab. I'm still not good at coding, but I'm proud to see myself getting better and better. It's also fun to think about algorithms. 
 
-### Markdown
+### Biology 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaeyoun3227/jaeyoun3227.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Also I love biology. I took many subjects in biology such as Molecular biology, Microbiology, Organic chemistry, Biochemistry, Physiology, Bioinformatics, Antibiotics, Applied genetics, etc. It was also interesting to experiment directly through practical subjects. I want to become biology data scientist from these major skills. 
